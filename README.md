@@ -1,1 +1,1 @@
-# simple-editor
+# Simple-Editor
